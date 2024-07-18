@@ -1,0 +1,47 @@
+.bg-dark {
+    --bs-bg-opacity: 1;
+    background-color: none !important;
+}
+/* @media screen and (min-width: 480px) {
+    .navbar{
+        float: right;
+    }
+} */
+.border{
+    border: 1px solid black;
+    box-shadow: 0px 0px 15px black;
+    border-radius: 15px;
+}
+.margin{
+    margin: 25px 0px;
+}
+/* .margin-1{
+    margin:  15px 105px;
+} */
+.element-style {
+    margin: 60px;
+}
+.font{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.color-w{
+    color: white;
+}
+.image{
+    width: 60%;
+    height: 60%;
+}
+.slide-margin{
+    margin: auto 230px;
+}
+.font-weight-bold{
+    font-weight: 700;
+}
+.image-1{
+    width: 50%;
+    height: 50%;
+}
+.img-fix{
+    width: fit-content;
+    height: fit-content;
+}
